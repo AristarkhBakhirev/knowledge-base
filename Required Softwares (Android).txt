@@ -1,0 +1,25 @@
+				Required Software for my Android smartphones
+1. Google Chrome
+2. WPS Office (or default app)
+3. ReadEra 
+4. Telegram X (or Telegram Official)
+5. Viber
+6. AWD IDE
+7. VK
+8. VK Coffee
+9. Instagram
+10. AliExpress
+11. ColorNote (or default app)
+12. СберБанк
+13. Google Drive
+14. Почта Mail.ru
+15. YouTube
+16. Google Maps
+17. Wattpad
+18. F-droid
+19. Play Games
+20. GitHub
+21. Reddit
+22. Figma Mirror
+
+*. Обзятельно должны быть предустановлены Google Services
